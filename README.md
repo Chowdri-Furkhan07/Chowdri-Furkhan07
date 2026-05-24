@@ -34,7 +34,7 @@ Currently focused on solving real-world business and automation problems using A
 
 ### Languages & Programming
 
-Python • SQL • JavaScript • C • C++
+Python • SQL (MySQL)
 
 ### AI/ML & Data Science
 
