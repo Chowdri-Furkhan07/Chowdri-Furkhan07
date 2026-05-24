@@ -15,18 +15,37 @@ Passionate about building intelligent AI systems, machine learning applications,
 
 # 💡 About Me
 
-I am an AI/ML Engineer and Data Science enthusiast focused on developing scalable AI-powered applications using Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, and Business Intelligence technologies.
+I am an aspiring AI/ML Engineer and Data Scientist passionate about building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, and Business Intelligence technologies.
 
-I specialize in building end-to-end AI solutions including:
+I enjoy solving real-world problems through AI-powered applications, analytics dashboards, semantic search systems, recommendation engines, and automation solutions. My focus is on developing impactful projects that combine data science with practical business applications.
+
+🔭 Currently Working On:
 
 * Generative AI & RAG Applications
+* Machine Learning & Deep Learning Projects
 * NLP & Semantic Search Systems
-* Computer Vision & Face Recognition Systems
-* Predictive Analytics & AI Dashboards
-* Intelligent Recommendation Systems
-* Interactive Data Visualization Platforms
+* Computer Vision Applications
+* Data Analytics & Power BI Dashboards
+* AI-Powered Automation Solutions
 
-Currently focused on solving real-world business and automation problems using AI-driven technologies and modern data science workflows.
+🌱 Interested In:
+
+* Data Science
+* Artificial Intelligence & Machine Learning
+* Generative AI
+* Deep Learning
+* NLP & LLM Applications
+* Business Intelligence & Analytics
+* AI Product Development
+
+💼 Open To:
+
+* AI/ML Engineer Roles
+* Data Scientist Opportunities
+* Machine Learning Internships & Full-Time Roles
+* Generative AI Projects
+* Data Analytics & Business Intelligence Roles
+* Collaborative Open Source AI Projects
 
 ---
 
