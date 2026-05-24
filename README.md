@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chowdri Furkhan
 
-🚀 AI/ML Engineer • Aspiriring Data Scientist • Data Analyst
+🚀 AI/ML Engineer • Aspiring Data Scientist • Data Analyst
 
 Passionate about building intelligent AI systems, machine learning applications, NLP solutions, computer vision systems, and data-driven analytics platforms that solve real-world problems at scale.
 
