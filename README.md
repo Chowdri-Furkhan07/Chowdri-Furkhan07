@@ -145,7 +145,6 @@ Designed an interactive Power BI dashboard to analyze sales performance, custome
 * Generative AI Workshop – OpenAI
 * AI Dashboards using Power BI
 * Responsive Web Design – freeCodeCamp
-* JavaScript Programming – GeeksforGeeks
 
 ---
 
