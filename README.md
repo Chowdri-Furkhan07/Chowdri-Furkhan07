@@ -1,156 +1,153 @@
-# 👋 Hi, I'm Chowdri Furkhan
+# 👋 Chowdri Furkhan
+### Data Analyst | Business Analyst | Power BI Developer | BI Analyst | SQL Developer | Data Scientist | AI/ML Engineer
 
-🚀 AI/ML Engineer • Aspiring Data Scientist • Data Analyst
-
-Passionate about building intelligent AI systems, machine learning applications, NLP solutions, computer vision systems, and data-driven analytics platforms that solve real-world problems at scale.
-
-📍 Bengaluru, India
-📧 [mrfurkhanfurkhan@gmail.com](mailto:mrfurkhanfurkhan@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/chowdri-furkhan/)
-💻 [GitHub](https://github.com/Chowdri-Furkhan07)
-🧠 [LeetCode](https://leetcode.com/u/xxZLSk0WXE/)
-🤗 [Hugging Face](https://huggingface.co/ChowdriFurkhan07)
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 mrfurkhanfurkhan@gmail.com &nbsp;|&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/chowdri-furkhan/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Chowdri-Furkhan07) &nbsp;|&nbsp; 🤗 [Hugging Face](https://huggingface.co/ChowdriFurkhan07)
 
 ---
 
-# 💡 About Me
+## 💡 About Me
 
-I am an aspiring AI/ML Engineer and Data Scientist passionate about building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, and Business Intelligence technologies.
+Results-driven **Data Analyst** and aspiring **Data Scientist / AI-ML Engineer** with hands-on experience transforming raw data into actionable business insights. I specialize in **SQL querying**, **Power BI dashboard development**, **Python-based analytics**, and **machine learning solutions** that drive measurable business outcomes.
 
-I enjoy solving real-world problems through AI-powered applications, analytics dashboards, semantic search systems, recommendation engines, and automation solutions. My focus is on developing impactful projects that combine data science with practical business applications.
-
-🔭 Currently Working On:
-
-* Generative AI & RAG Applications
-* Machine Learning & Deep Learning Projects
-* NLP & Semantic Search Systems
-* Computer Vision Applications
-* Data Analytics & Power BI Dashboards
-* AI-Powered Automation Solutions
-
-🌱 Interested In:
-
-* Data Science
-* Artificial Intelligence & Machine Learning
-* Generative AI
-* Deep Learning
-* NLP & LLM Applications
-* Business Intelligence & Analytics
-* AI Product Development
-
-💼 Open To:
-
-* AI/ML Engineer Roles
-* Data Scientist Opportunities
-* Machine Learning Internships & Full-Time Roles
-* Generative AI Projects
-* Data Analytics & Business Intelligence Roles
-* Collaborative Open Source AI Projects
+I am passionate about solving real-world business problems through data storytelling, predictive analytics, and intelligent automation — making me a strong fit for Data Analyst, Business Analyst, BI Developer, MIS/Reporting Analyst, and AI/ML Engineer roles.
 
 ---
 
-# 🧠 Core Skills
+## 🔍 Open To Roles
 
-### Languages & Programming
-
-Python • SQL (MySQL)
-
-### AI/ML & Data Science
-
-Machine Learning • Deep Learning • NLP • Generative AI • Computer Vision • Predictive Analytics • Data Analysis • Feature Engineering • Model Deployment
-
-### Frameworks & Libraries
-
-TensorFlow • Scikit-learn • OpenCV • Pandas • NumPy • LangChain • Streamlit • Flask
-
-### Data Visualization & BI
-
-Power BI • Tableau • Matplotlib • Seaborn • DAX • Power Query
-
-### Databases & Tools
-
-MySQL • Pinecone • Git • GitHub • Docker • VS Code
+| Priority | Role |
+|----------|------|
+| ⭐ Primary | Data Analyst |
+| ⭐ Primary | Business Analyst |
+| ⭐ Primary | Power BI Developer |
+| ⭐ Primary | BI Analyst |
+| ⭐ Primary | SQL Developer |
+| ⭐ Primary | MIS Executive / Reporting Analyst |
+| 🔬 Secondary | Data Scientist |
+| 🤖 Secondary | AI/ML Engineer |
 
 ---
 
-# 🚀 Featured AI/ML & Data Science Projects
+## 🛠️ Technical Skills
 
-## 🔹 AI Career Guidance Platform
+### 📊 Data Analysis & Business Intelligence *(Core Strengths)*
+- **SQL** — Complex queries, joins, aggregations, stored procedures (MySQL)
+- **Power BI** — End-to-end dashboard development, DAX measures, Power Query (ETL)
+- **Tableau** — Interactive data visualizations and trend analysis
+- **Excel / Data Reporting** — MIS reports, pivot tables, KPI tracking
+- **Python for Analytics** — Pandas, NumPy, data wrangling, EDA, statistical analysis
+- **Data Visualization** — Matplotlib, Seaborn, storytelling with data
 
-AI-powered career recommendation platform using Machine Learning, NLP, Psychometric Analysis, and Flask to provide personalized career recommendations, AI chatbot assistance, and intelligent career assessment.
+### 🤖 AI / Machine Learning *(Secondary Strength)*
+- Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision
+- Frameworks: TensorFlow, Scikit-learn, LangChain, OpenCV
+- Model deployment: Flask, Streamlit, Docker
 
-**Tech Stack:** Python, Flask, NLP, Machine Learning, SQLite, HTML/CSS
-
----
-
-## 🔹 Intelligent Multi-Document RAG System
-
-Enterprise-level Retrieval-Augmented Generation (RAG) system using LangChain, Pinecone, and Groq LLaMA for semantic document search, context-aware querying, and intelligent AI-generated responses.
-
-**Tech Stack:** Python, LangChain, Pinecone, Groq LLaMA, NLP, Streamlit
-
----
-
-## 🔹 AI Attendance Management System
-
-Developed an AI-powered smart attendance platform using Face Recognition and Computer Vision to automate attendance tracking, prevent duplicate entries, and securely manage attendance records.
-
-**Tech Stack:** Python, OpenCV, Face Recognition, MySQL, Computer Vision
+### 🗄️ Databases & Tools
+- MySQL &nbsp;|&nbsp; Pinecone &nbsp;|&nbsp; Git & GitHub &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; Docker
 
 ---
 
-## 🔹 Autonomous Fleet Route Optimizer (VRP)
+## 📂 Featured Projects
 
-Built a logistics optimization platform using Genetic Algorithms and Streamlit to solve Vehicle Routing Problems (VRP) with traffic-aware route optimization, vehicle constraints, and interactive route visualization.
-
-**Tech Stack:** Python, Streamlit, Genetic Algorithms, Folium, NumPy, Pandas
+### 📊 Data Analytics & BI Projects *(Recruiter Highlight)*
 
 ---
 
-## 🔹 YouTube Transcript to AI Notes Generator
+#### 🔹 Blinkit Sales & Customer Analytics Dashboard
+> **Role fit: Power BI Developer | BI Analyst | MIS Executive | Reporting Analyst**
 
-Created a Generative AI application that extracts YouTube transcripts and generates AI-powered structured notes and summaries using Google Gemini API and NLP techniques.
+Designed a fully interactive **Power BI dashboard** to analyze Blinkit's sales performance, customer behavior, outlet trends, and business KPIs — enabling stakeholders to make data-driven decisions.
 
-**Tech Stack:** Python, Streamlit, Gemini API, NLP, YouTube Transcript API
+- Built advanced **DAX measures** for dynamic KPI calculations
+- Used **Power Query** for data transformation and ETL pipeline
+- Delivered insights on revenue trends, outlet performance, and customer segmentation
 
----
-
-## 🔹 Smart Driver Drowsiness Detection System
-
-Real-time AI-based driver monitoring system using Computer Vision and facial landmark detection to identify driver fatigue and trigger alert mechanisms for road safety.
-
-**Tech Stack:** Python, OpenCV, Dlib, Computer Vision
+**Tech Stack:** `Power BI` `DAX` `Power Query` `Business Analytics`
 
 ---
 
-## 🔹 Blinkit Sales & Customer Analytics Dashboard
+#### 🔹 Autonomous Fleet Route Optimizer (VRP)
+> **Role fit: Data Analyst | Business Analyst | Operations Analytics**
 
-Designed an interactive Power BI dashboard to analyze sales performance, customer behavior, outlet trends, and business KPIs using advanced data visualization and analytics techniques.
+Built a logistics optimization platform solving the **Vehicle Routing Problem (VRP)** using Genetic Algorithms, providing actionable route recommendations to reduce delivery costs and improve fleet efficiency.
 
-**Tech Stack:** Power BI, DAX, Power Query, Business Analytics
+- Reduced route complexity using optimization algorithms
+- Visualized results with interactive maps (Folium) for business stakeholders
+- Analyzed vehicle constraints, traffic patterns, and cost trade-offs
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdri-Furkhan07\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdri-Furkhan07\&layout=compact\&theme=tokyonight)
+**Tech Stack:** `Python` `Streamlit` `Genetic Algorithms` `Folium` `NumPy` `Pandas`
 
 ---
 
-# 🏆 Certifications
-
-* IBM SkillsBuild – Getting Started with AI
-* Generative AI Workshop – OpenAI
-* AI Dashboards using Power BI
-* Responsive Web Design – freeCodeCamp
+### 🤖 AI / ML Projects *(Secondary)*
 
 ---
 
-# 🌐 Connect With Me
+#### 🔹 AI Career Guidance Platform
+> **Role fit: AI/ML Engineer | Data Scientist**
 
-<p align="center">
+AI-powered career recommendation platform combining **Machine Learning**, **NLP**, and **Psychometric Analysis** to deliver personalized career recommendations and AI chatbot assistance.
+
+**Tech Stack:** `Python` `Flask` `NLP` `Machine Learning` `SQLite` `HTML/CSS`
+
+---
+
+#### 🔹 Intelligent Multi-Document RAG System
+> **Role fit: AI/ML Engineer | Generative AI Developer**
+
+Enterprise-level **Retrieval-Augmented Generation (RAG)** system for semantic document search, context-aware querying, and intelligent AI-generated responses.
+
+**Tech Stack:** `Python` `LangChain` `Pinecone` `Groq LLaMA` `NLP` `Streamlit`
+
+---
+
+#### 🔹 AI Attendance Management System
+> **Role fit: AI/ML Engineer | Computer Vision Engineer**
+
+AI-powered smart attendance platform using **Face Recognition** and **Computer Vision** to automate attendance tracking and prevent duplicate entries.
+
+**Tech Stack:** `Python` `OpenCV` `Face Recognition` `MySQL` `Computer Vision`
+
+---
+
+#### 🔹 Smart Driver Drowsiness Detection System
+> **Role fit: AI/ML Engineer | Computer Vision Engineer**
+
+Real-time AI driver monitoring system using **Computer Vision** and facial landmark detection to identify driver fatigue and trigger safety alerts.
+
+**Tech Stack:** `Python` `OpenCV` `Dlib` `Computer Vision`
+
+---
+
+#### 🔹 YouTube Transcript to AI Notes Generator
+> **Role fit: AI/ML Engineer | NLP Developer**
+
+Generative AI application that extracts YouTube transcripts and generates structured notes and summaries using **Google Gemini API** and NLP.
+
+**Tech Stack:** `Python` `Streamlit` `Gemini API` `NLP` `YouTube Transcript API`
+
+---
+
+## 🏆 Certifications
+
+- 📜 IBM SkillsBuild — Getting Started with AI
+- 📜 Generative AI Workshop — OpenAI
+- 📜 AI Dashboards using Power BI
+- 📜 Responsive Web Design — freeCodeCamp
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdri-Furkhan07&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdri-Furkhan07&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
 <a href="https://github.com/Chowdri-Furkhan07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/chowdri-furkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/xxZLSk0WXE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
@@ -159,4 +156,4 @@ Designed an interactive Power BI dashboard to analyze sales performance, custome
 
 ---
 
-⭐ “Building AI solutions that transform data into intelligent decision-making.”
+> 💬 *"Turning data into decisions — one insight at a time."*
