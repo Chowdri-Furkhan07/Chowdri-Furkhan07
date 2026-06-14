@@ -131,10 +131,10 @@ Generative AI application that extracts YouTube transcripts and generates struct
 
 ## 🏆 Certifications
 
-- 📜 IBM SkillsBuild — Getting Started with AI
-- 📜 Generative AI Workshop — OpenAI
-- 📜 AI Dashboards using Power BI
-- 📜 Responsive Web Design — freeCodeCamp
+- 📜 Getting Started with AI - IBM SkillsBuild 
+- 📜 Generative AI Workshop - OpenAI
+- 📜 AI Dashboards using Power BI - Skill Nation
+- 📜 Responsive Web Design - freeCodeCamp
 
 ---
 
