@@ -31,7 +31,7 @@ I am passionate about solving real-world business problems through data storytel
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Business Intelligence *(Core Strengths)*
-- **SQL** — Complex queries, joins, aggregations, stored procedures (MySQL)
+- **SQL** — Complex queries, joins, aggregations, stored procedures (MS SQL, MySQL)
 - **Power BI** — End-to-end dashboard development, DAX measures, Power Query (ETL)
 - **Tableau** — Interactive data visualizations and trend analysis
 - **Excel / Data Reporting** — MIS reports, pivot tables, KPI tracking
