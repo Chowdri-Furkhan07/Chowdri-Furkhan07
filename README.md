@@ -31,12 +31,12 @@ I am passionate about solving real-world business problems through data storytel
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Business Intelligence *(Core Strengths)*
-- **SQL** — Complex queries, joins, aggregations, stored procedures (MS SQL, MySQL)
-- **Power BI** — End-to-end dashboard development, DAX measures, Power Query (ETL)
-- **Tableau** — Interactive data visualizations and trend analysis
-- **Excel / Data Reporting** — MIS reports, pivot tables, KPI tracking
-- **Python for Analytics** — Pandas, NumPy, data wrangling, EDA, statistical analysis
-- **Data Visualization** — Matplotlib, Seaborn, storytelling with data
+- **SQL** - Complex queries, joins, aggregations, stored procedures (MS SQL, MySQL)
+- **Power BI** - End-to-end dashboard development, DAX measures, Power Query (ETL)
+- **Tableau** - Interactive data visualizations and trend analysis
+- **Excel / Data Reporting** - MIS reports, pivot tables, KPI tracking
+- **Python for Analytics** - Pandas, NumPy, data wrangling, EDA, statistical analysis
+- **Data Visualization** - Matplotlib, Seaborn, storytelling with data
 
 ### 🤖 AI / Machine Learning *(Secondary Strength)*
 - Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision
