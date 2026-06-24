@@ -9,7 +9,7 @@
 
 Results-driven **Data Analyst** and Passionate **Data Scientist / AI-ML Engineer** with hands-on experience transforming raw data into actionable business insights. I specialize in **SQL querying**, **Power BI dashboard development**, **Python-based analytics**, and **machine learning solutions** that drive measurable business outcomes.
 
-I am passionate about solving real-world business problems through data storytelling, predictive analytics, and intelligent automation — making me a strong fit for Data Analyst, Business Analyst, BI Developer, MIS/Reporting Analyst, and AI/ML Engineer roles.
+I am passionate about solving real-world business problems through data storytelling, predictive analytics, and intelligent automation - making me a strong fit for Data Analyst, Business Analyst, BI Developer, MIS/Reporting Analyst, and AI/ML Engineer roles.
 
 ---
 
@@ -156,4 +156,4 @@ Generative AI application that extracts YouTube transcripts and generates struct
 
 ---
 
-> 💬 *"Turning data into decisions — one insight at a time."*
+> 💬 *"Turning data into decisions - one insight at a time."*
