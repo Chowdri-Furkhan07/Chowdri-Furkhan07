@@ -57,7 +57,7 @@ I am passionate about solving real-world business problems through data storytel
 #### 🔹 Blinkit Sales & Customer Analytics Dashboard
 > **Role fit: Power BI Developer | BI Analyst | MIS Executive | Reporting Analyst**
 
-Designed a fully interactive **Power BI dashboard** to analyze Blinkit's sales performance, customer behavior, outlet trends, and business KPIs — enabling stakeholders to make data-driven decisions.
+Designed a fully interactive **Power BI dashboard** to analyze Blinkit's sales performance, customer behavior, outlet trends, and business KPIs - enabling stakeholders to make data-driven decisions.
 
 - Built advanced **DAX measures** for dynamic KPI calculations
 - Used **Power Query** for data transformation and ETL pipeline
