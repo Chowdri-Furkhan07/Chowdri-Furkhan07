@@ -64,12 +64,28 @@ I'm a **Data Analyst** based in Bengaluru who turns raw, messy data into dashboa
 
 ## Featured Projects
 
-| **Blinkit Retail Intelligence Dashboard**<br>MySQL cleaning and aggregation plus an interactive Power BI dashboard across **8,523 records**: sales, ratings and outlet performance by item type, outlet tier and size. Total sales **$1.20M**, average rating **3.9**.<br>**Stack:** `MySQL` `Power BI` `DAX` `Excel`<br>[View Project](https://github.com/Chowdri-Furkhan07/Blinkit-Retail-Intelligence-Dashboard) | **SQL Data Warehouse & Analytics**<br>SQL Server T-SQL data warehouse built on Medallion architecture with star-schema modelling and analytics scripts for business insights. Analysis covers **$29.4M+ in sales**.<br>**Stack:** `T-SQL` `SQL Server` `ETL` `Star Schema`<br>[View Project](https://github.com/Chowdri-Furkhan07/sql-data-warehouse-analytics) |
+### Data Analytics & BI
+
+| | |
 | --- | --- |
-| **Pizza Sales BI Dashboard**<br>End-to-end pizza sales analytics on **$817K+ revenue** and **21K+ orders**: customer behaviour, product performance and KPI-driven decision support.<br>**Stack:** `SQL` `Python` `Power BI`<br>[View Project](https://github.com/Chowdri-Furkhan07/pizza-sales-business-intelligence-dashboard) | **CustomerLens AI**<br>Customer segmentation with K-Means, Hierarchical, DBSCAN and GMM, with automatic model selection by silhouette score. Apriori association rules drive confidence-based recommendations in a Streamlit app.<br>**Stack:** `Python` `Scikit-learn` `MLxtend` `Streamlit`<br>[View Project](https://github.com/Chowdri-Furkhan07/CustomerLens-AI) · [Live Demo](https://customerlens-ai-tn5lg6yyvbi8fliyvqsz7f.streamlit.app/) |
-| **Global Health Expenditure Analysis (2000–2024)**<br>Tableau dashboards, maps and stories comparing healthcare spending trends across nations and regions.<br>**Stack:** `Tableau` `Data Storytelling`<br>[View Project](https://github.com/Chowdri-Furkhan07/global-health-expenditure-analysis-tableau) | **Inventory Analytics Dashboard**<br>Python and Streamlit inventory system: product CRUD, stock monitoring, dashboards and CSV reporting.<br>**Stack:** `Python` `Streamlit` `Pandas`<br>[View Project](https://github.com/Chowdri-Furkhan07/inventory-analytics-dashboard) |
-| **LinkedIn Analytics Pipeline**<br>Weekly data pipeline on real LinkedIn export files: star-schema SQLite model, idempotent Python ETL, SQL rollup views and a Power BI export layer.<br>**Stack:** `Python` `SQLite` `SQL` `Power BI`<br>[View Repositories](https://github.com/Chowdri-Furkhan07?tab=repositories) | **Intelligent Document RAG** *(AI/ML)*<br>Multi-document semantic search and answer generation with retrieval-augmented generation.<br>**Stack:** `LangChain` `Pinecone` `Groq LLaMA` `Streamlit`<br>[View Project](https://github.com/Chowdri-Furkhan07/Intelligent-Document-RAG) |
-| **Netflix Content Analytics Dashboard**<br>Interactive Power BI dashboard on movies vs TV shows, genres, ratings, countries and release trends.<br>**Stack:** `Power BI` `Data Visualization`<br>[View Project](https://github.com/Chowdri-Furkhan07/Netflix-Content-Analytics-Dashboard) | **Auto MPG Analytics Platform**<br>EDA, KPI monitoring and business intelligence insights with interactive Streamlit and Dash dashboards.<br>**Stack:** `Python` `Plotly` `Streamlit` `Dash`<br>[View Repositories](https://github.com/Chowdri-Furkhan07?tab=repositories) |
+| **Blinkit Retail Intelligence Dashboard**<br>MySQL cleaning plus an interactive Power BI dashboard on **8,523 records**: **$1.20M** total sales, 3.9 average rating, sliced by item type, outlet tier and size.<br>`MySQL` `Power BI` `DAX` `Excel`<br>[View Project](https://github.com/Chowdri-Furkhan07/Blinkit-Retail-Intelligence-Dashboard) | **Pizza Sales BI Dashboard**<br>SQL, Python and Power BI analysis of **$817K+ revenue** and **21K+ orders**: customer behaviour, product performance and KPI tracking.<br>`SQL` `Python` `Power BI`<br>[View Project](https://github.com/Chowdri-Furkhan07/pizza-sales-business-intelligence-dashboard) |
+| **SQL Data Warehouse & Analytics**<br>SQL Server data warehouse on Medallion architecture with star-schema modelling and analytics scripts, covering **$29.4M+ in sales**.<br>`T-SQL` `SQL Server` `ETL` `Star Schema`<br>[View Project](https://github.com/Chowdri-Furkhan07/sql-data-warehouse-analytics) | **Netflix Content Analytics Dashboard**<br>Power BI dashboard on movies vs TV shows, genres, ratings, countries and release trends.<br>`Power BI` `Data Visualization`<br>[View Project](https://github.com/Chowdri-Furkhan07/Netflix-Content-Analytics-Dashboard) |
+| **Global Health Expenditure Analysis (2000–2024)**<br>Tableau dashboards, maps and stories comparing healthcare spending across nations and regions.<br>`Tableau` `Data Storytelling`<br>[View Project](https://github.com/Chowdri-Furkhan07/global-health-expenditure-analysis-tableau) | **CustomerLens AI**<br>Customer segmentation (K-Means, Hierarchical, DBSCAN, GMM) with Apriori-based recommendations in a Streamlit app.<br>`Python` `Scikit-learn` `Streamlit`<br>[View Project](https://github.com/Chowdri-Furkhan07/CustomerLens-AI) · [Live Demo](https://customerlens-ai-tn5lg6yyvbi8fliyvqsz7f.streamlit.app/) |
+
+### More Analytics Work
+
+- [Loan Eligibility Scorecard](https://github.com/Chowdri-Furkhan07/loan-eligibility-scorecard): explainable 100-point credit scorecard with EMI/FOIR affordability analysis (Python, Flask, Docker)
+- [Inventory Analytics Dashboard](https://github.com/Chowdri-Furkhan07/inventory-analytics-dashboard): stock monitoring, dashboards and CSV reporting (Python, Streamlit)
+- [Auto MPG Analytics Platform](https://github.com/Chowdri-Furkhan07/auto-mpg-analytics-platform): EDA and KPI dashboards (Python, Plotly, Dash)
+- [Titanic Survival Analytics](https://github.com/Chowdri-Furkhan07/Titanic-Survival-Analytics): survival patterns by gender, class, age and fare (Python, Streamlit)
+- [ChurnSense](https://github.com/Chowdri-Furkhan07/churnsense-ml): customer churn prediction on 5,200 records (Random Forest, Streamlit)
+
+### AI / ML (secondary)
+
+- [Intelligent Document RAG](https://github.com/Chowdri-Furkhan07/Intelligent-Document-RAG): multi-document semantic search (LangChain, Pinecone, Groq LLaMA)
+- [DocSense RAG](https://github.com/Chowdri-Furkhan07/docsense-rag): chat with PDF and DOCX files with cited sources (LangChain, FAISS, Groq)
+- [MediRAG-Bedrock](https://github.com/Chowdri-Furkhan07/MediRAG-Bedrock): document-grounded medical Q&A (FastAPI, AWS Bedrock, FAISS)
+- [Enterprise AI Multi-Agent Assistant](https://github.com/Chowdri-Furkhan07/enterprise-ai-multi-agent-assistant): CrewAI and AutoGen with RAG and MySQL querying
 
 [![All Repositories](https://img.shields.io/badge/View_All_Repositories-7DF9FF?style=for-the-badge&logo=github&logoColor=05070d)](https://github.com/Chowdri-Furkhan07?tab=repositories)
 
@@ -115,8 +131,10 @@ flowchart LR
 
 ## Experience
 
-- **Data Science Intern, Take It Smart (OPC) Pvt Ltd** | *Feb 2026 – May 2026*
-  <!-- TODO: add 2 bullets with real tasks and numbers, e.g. "Cleaned X rows and built Y model that did Z" -->
+- **Data Science Intern, Take It Smart (OPC) Pvt Ltd**, Bengaluru, India | *Feb 2026 – May 2026*
+  - Deployed **20+ AI/ML and Generative AI projects**, including dashboards, recommendation systems and chatbots, using Python, SQL, Scikit-learn, TensorFlow, Flask, Streamlit, Power BI and OpenCV.
+  - Built Retrieval-Augmented Generation (RAG) and Generative AI applications with LangChain, FAISS, Pinecone, OpenAI/Groq APIs and AWS Bedrock, powering **10+ production-ready dashboards**.
+  - Performed root cause analysis, data governance checks and end-to-end model deployment across multi-agent AI systems and business dashboards.
 
 - **Job Simulation: GenAI Powered Data Analytics, Tata iQ (Forage)** | *Aug 2026*
   Built a business summary report and an executive briefing deck on an AI-powered collections strategy, backed by a logistic regression delinquency prediction model.
