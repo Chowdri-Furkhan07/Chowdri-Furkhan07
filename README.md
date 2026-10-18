@@ -1,31 +1,43 @@
+<!-- Save this as README.md inside a PUBLIC repo named exactly: Gayathri-Reddy874 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHOWDRI%20FURKHAN&fontSize=44&fontAlignY=38&color=0:050510,50:1a1240,100:04070d&fontColor=66fcf1&animation=twinkling&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Excel&descAlignY=66&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MALLAREDDYGARI%20GAYATHRI&fontSize=40&fontAlignY=38&color=0:050510,50:1a1240,100:04070d&fontColor=66fcf1&animation=twinkling&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Excel&descAlignY=62&descAlign=50" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=7DF9FF&center=true&vCenter=true&width=1100&lines=Data+Analyst+%7C+SQL+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Excel;Turning+raw+data+into+business+decisions;Dashboards+%C2%B7+ETL+%C2%B7+KPI+Reporting+%C2%B7+EDA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chowdri-Furkhan07"><img src="https://img.shields.io/badge/GitHub-Chowdri--Furkhan07-0b0f1a?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=05070d" /></a>
-  <a href="https://www.linkedin.com/in/chowdri-furkhan/"><img src="https://img.shields.io/badge/LinkedIn-Chowdri%20Furkhan-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d" /></a>
-  <a href="mailto:mrfurkhanfurkhan@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-0b0f1a?style=for-the-badge&logo=gmail&logoColor=7DF9FF&labelColor=05070d" /></a>
-  <a href="https://leetcode.com/u/xxZLSk0WXE/"><img src="https://img.shields.io/badge/LeetCode-Profile-0b0f1a?style=for-the-badge&logo=leetcode&logoColor=7DF9FF&labelColor=05070d" /></a>
-  <a href="https://huggingface.co/ChowdriFurkhan07"><img src="https://img.shields.io/badge/HuggingFace-ChowdriFurkhan07-0b0f1a?style=for-the-badge&logo=huggingface&logoColor=7DF9FF&labelColor=05070d" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gayathri-Reddy874"><img src="https://img.shields.io/badge/GitHub-Gayathri--Reddy874-0b0f1a?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=05070d" /></a>
+  <a href="https://www.linkedin.com/in/mallareddygari-gayathri"><img src="https://img.shields.io/badge/LinkedIn-Mallareddygari%20Gayathri-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d" /></a>
+  <a href="mailto:gayathrireddy18125@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-0b0f1a?style=for-the-badge&logo=gmail&logoColor=7DF9FF&labelColor=05070d" /></a>
+  <a href="https://leetcode.com/u/M-Gayathri-Reddy/"><img src="https://img.shields.io/badge/LeetCode-Profile-0b0f1a?style=for-the-badge&logo=leetcode&logoColor=7DF9FF&labelColor=05070d" /></a>
+  <a href="https://huggingface.co/GayathriReddy96874"><img src="https://img.shields.io/badge/HuggingFace-GayathriReddy96874-0b0f1a?style=for-the-badge&logo=huggingface&logoColor=7DF9FF&labelColor=05070d" /></a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Data Analyst** based in Bengaluru who turns raw, messy data into dashboards and insights that people can act on. I work across the full analytics workflow: **SQL cleaning and querying, Power BI modelling with DAX, Python EDA, and clear reporting**.
+I'm a **Data Analyst** based in Bangalore who turns raw, messy data into dashboards and insights that people can act on. I work across the full analytics workflow: **SQL cleaning and querying, dashboards and KPI reporting, Python EDA, and clear written insights**.
 
-- B.E. in Artificial Intelligence & Machine Learning, Vijaya Vittala Institute of Technology (VVIT), Bengaluru. Graduated May 2026, CGPA 7.52.
-- Built BI dashboards on retail, pizza sales and warehouse data, including a Medallion-architecture SQL data warehouse covering **$29.4M+ in sales**.
-- Comfortable end to end: raw data, SQL cleaning, star-schema modelling, DAX KPIs, dashboard, written insights.
-- Looking for **Data Analyst, Business Analyst, BI Analyst and Power BI Developer** roles. Data Scientist and AI/ML Engineer are longer-term goals.
+- B.E. in Artificial Intelligence & Machine Learning Engineering, **CGPA 9.07 / 10**.
+- Currently working as a **Data Analyst – Apprentice at Colt Technology Services**, and previously a **Data Science Intern at Take It Smart (OPC) Pvt Ltd**.
+- Built a **Medallion-architecture (Bronze → Silver → Gold) SQL data warehouse** that surfaced **$29.4M in total revenue** insights from bike sales data.
+- Comfortable end to end: raw data, SQL cleaning, modelling, KPIs, dashboard, written recommendations.
+- Looking for **full-time Data Analyst, Business Analyst and BI Analyst** roles. Data Scientist and AI/ML Engineer are my longer-term goals.
+- First open-source contribution: a documentation PR to **MLflow** (#23551).
 
 ---
 
@@ -33,32 +45,33 @@ I'm a **Data Analyst** based in Bengaluru who turns raw, messy data into dashboa
 
 ### Data Analysis & BI (core)
 
-![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20MS%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Pivot%20%7C%20MIS%20Reports-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-DAX_%7C_Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Pivot_%7C_MIS_Reports-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<!-- ✏️ Delete any badge above for a tool you haven't actually used. -->
 
 ### Python for Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### ML (secondary)
+### ML & AI (secondary)
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-0b0f1a?style=for-the-badge&logo=chainlink&logoColor=7DF9FF)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
@@ -68,37 +81,36 @@ I'm a **Data Analyst** based in Bengaluru who turns raw, messy data into dashboa
 
 | | |
 | --- | --- |
-| **Blinkit Retail Intelligence Dashboard**<br>MySQL cleaning plus an interactive Power BI dashboard on **8,523 records**: **$1.20M** total sales, 3.9 average rating, sliced by item type, outlet tier and size.<br>`MySQL` `Power BI` `DAX` `Excel`<br>[View Project](https://github.com/Chowdri-Furkhan07/Blinkit-Retail-Intelligence-Dashboard) | **Pizza Sales BI Dashboard**<br>SQL, Python and Power BI analysis of **$817K+ revenue** and **21K+ orders**: customer behaviour, product performance and KPI tracking.<br>`SQL` `Python` `Power BI`<br>[View Project](https://github.com/Chowdri-Furkhan07/pizza-sales-business-intelligence-dashboard) |
-| **SQL Data Warehouse & Analytics**<br>SQL Server data warehouse on Medallion architecture with star-schema modelling and analytics scripts, covering **$29.4M+ in sales**.<br>`T-SQL` `SQL Server` `ETL` `Star Schema`<br>[View Project](https://github.com/Chowdri-Furkhan07/sql-data-warehouse-analytics) | **Netflix Content Analytics Dashboard**<br>Power BI dashboard on movies vs TV shows, genres, ratings, countries and release trends.<br>`Power BI` `Data Visualization`<br>[View Project](https://github.com/Chowdri-Furkhan07/Netflix-Content-Analytics-Dashboard) |
-| **Global Health Expenditure Analysis (2000–2024)**<br>Tableau dashboards, maps and stories comparing healthcare spending across nations and regions.<br>`Tableau` `Data Storytelling`<br>[View Project](https://github.com/Chowdri-Furkhan07/global-health-expenditure-analysis-tableau) | **CustomerLens AI**<br>Customer segmentation (K-Means, Hierarchical, DBSCAN, GMM) with Apriori-based recommendations in a Streamlit app.<br>`Python` `Scikit-learn` `Streamlit`<br>[View Project](https://github.com/Chowdri-Furkhan07/CustomerLens-AI) · [Live Demo](https://customerlens-ai-tn5lg6yyvbi8fliyvqsz7f.streamlit.app/) |
+| **SQL Data Warehouse & Analytics**<br>Data warehouse on Medallion architecture (Bronze/Silver/Gold) with analytics on bike sales data, covering **$29.4M in total revenue**.<br>`SQL` `ETL` `Data Modeling`<br>[View Project](https://github.com/Gayathri-Reddy874?tab=repositories) | **Pizza Sales Analytics Dashboard**<br>Dashboard analysing sales trends, top products and peak periods, built for KPI tracking and business decisions.<br>`Dashboarding` `KPIs` `Data Visualization`<br>[View Project](https://github.com/Gayathri-Reddy874?tab=repositories) |
+| **SegmentIQ: Customer Segmentation**<br>Customer segmentation that turns raw customer data into actionable groups for targeting.<br>`Python` `Pandas` `Scikit-learn`<br>[View Project](https://github.com/Gayathri-Reddy874?tab=repositories) | **Career-Guide App**<br>Career guidance web app deployed live on Render.<br>`Python` `Web App` `Render`<br>[View Project](https://github.com/Gayathri-Reddy874/Career-guide) |
+<!-- ✏️ Add one real number to each card (rows analysed, revenue, orders, % improvement) and swap in the exact repo links. -->
 
 ### More Analytics Work
 
-- [Loan Eligibility Scorecard](https://github.com/Chowdri-Furkhan07/loan-eligibility-scorecard): explainable 100-point credit scorecard with EMI/FOIR affordability analysis (Python, Flask, Docker)
-- [Inventory Analytics Dashboard](https://github.com/Chowdri-Furkhan07/inventory-analytics-dashboard): stock monitoring, dashboards and CSV reporting (Python, Streamlit)
-- [Auto MPG Analytics Platform](https://github.com/Chowdri-Furkhan07/auto-mpg-analytics-platform): EDA and KPI dashboards (Python, Plotly, Dash)
-- [Titanic Survival Analytics](https://github.com/Chowdri-Furkhan07/Titanic-Survival-Analytics): survival patterns by gender, class, age and fare (Python, Streamlit)
-- [ChurnSense](https://github.com/Chowdri-Furkhan07/churnsense-ml): customer churn prediction on 5,200 records (Random Forest, Streamlit)
+- **SmartLoan Predictor:** Flask loan-approval web app with a Random Forest model and rule-based scoring.
+- **CineMatch:** movie recommender on the TMDB 5000 dataset (cosine similarity, Streamlit).
+- **Folio:** book recommender using CountVectorizer and cosine similarity (Streamlit).
 
 ### AI / ML (secondary)
 
-- [Intelligent Document RAG](https://github.com/Chowdri-Furkhan07/Intelligent-Document-RAG): multi-document semantic search (LangChain, Pinecone, Groq LLaMA)
-- [DocSense RAG](https://github.com/Chowdri-Furkhan07/docsense-rag): chat with PDF and DOCX files with cited sources (LangChain, FAISS, Groq)
-- [MediRAG-Bedrock](https://github.com/Chowdri-Furkhan07/MediRAG-Bedrock): document-grounded medical Q&A (FastAPI, AWS Bedrock, FAISS)
-- [Enterprise AI Multi-Agent Assistant](https://github.com/Chowdri-Furkhan07/enterprise-ai-multi-agent-assistant): CrewAI and AutoGen with RAG and MySQL querying
+- **E-commerce Review Sentiment Analyzer:** DistilBERT on real Amazon reviews, class-imbalance handling, CI/CD and Docker.
+- **Emotion AI App:** DistilRoBERTa emotion detection with 24 unit tests and Plotly visualizations.
+- **Enterprise AI Assistant:** multi-agent RAG assistant (FastAPI, Streamlit, Pinecone, FAISS, AWS Bedrock, MySQL).
+- **Transformer Playground:** seven Hugging Face tasks in one app, with Docker support.
+- **LangChain + Groq Chatbot:** Streamlit chatbot with conversation memory, CI and Docker.
 
-[![All Repositories](https://img.shields.io/badge/View_All_Repositories-7DF9FF?style=for-the-badge&logo=github&logoColor=05070d)](https://github.com/Chowdri-Furkhan07?tab=repositories)
+[![All Repositories](https://img.shields.io/badge/View_All_Repositories-7DF9FF?style=for-the-badge&logo=github&logoColor=050709)](https://github.com/Gayathri-Reddy874?tab=repositories)
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chowdri-Furkhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdri-Furkhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9" height="165" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chowdri-Furkhan07&theme=tokyonight&hide_border=true&background=0d1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF" />
+  <img src="https://streak-stats.demolab.com?user=Gayathri-Reddy874&theme=tokyonight&hide_border=true&background=0d1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF" />
 </p>
 
 ---
@@ -107,10 +119,10 @@ I'm a **Data Analyst** based in Bengaluru who turns raw, messy data into dashboa
 
 ```mermaid
 flowchart LR
-    A[Raw Data<br/>CSV / SQL / Excel] --> B[Cleaning<br/>SQL + Power Query]
-    B --> C[Data Model<br/>Star Schema]
-    C --> D[Measures<br/>DAX / SQL KPIs]
-    D --> E[Dashboard<br/>Power BI / Tableau]
+    A[Raw Data<br/>CSV / SQL / Excel] --> B[Cleaning<br/>SQL + Python]
+    B --> C[Data Model<br/>Star Schema / Medallion]
+    C --> D[Measures<br/>KPIs / DAX / SQL]
+    D --> E[Dashboard<br/>Power BI / Streamlit]
     E --> F[Insights<br/>Business Recommendations]
     F -. Feedback .-> B
 
@@ -122,44 +134,44 @@ flowchart LR
     style F fill:#20152b,stroke:#f7b267,stroke-width:2px,color:#e6f1ff
 ```
 
-- **SQL:** joins, aggregations, data standardisation, stored procedures (MySQL, MS SQL).
-- **Power BI:** Power Query ETL, star-schema modelling, DAX measures, cross-filtered dashboards.
-- **Python:** Pandas and NumPy wrangling, EDA, statistical analysis, Matplotlib and Seaborn visuals.
-- **Reporting:** KPI tracking, MIS-style Excel reports, pivot tables, written business summaries.
+- **SQL:** joins, aggregations, data standardisation, warehouse layers (Bronze/Silver/Gold).
+- **Dashboards:** KPI design, cross-filtered views, business storytelling.
+- **Python:** Pandas and NumPy wrangling, EDA, visualisation.
+- **ML (secondary):** classification, NLP and recommender systems that extend the analysis.
 
 ---
 
 ## Experience
 
-- **Data Science Intern, Take It Smart (OPC) Pvt Ltd**, Bengaluru, India | *Feb 2026 – May 2026*
-  - Deployed **20+ AI/ML and Generative AI projects**, including dashboards, recommendation systems and chatbots, using Python, SQL, Scikit-learn, TensorFlow, Flask, Streamlit, Power BI and OpenCV.
-  - Built Retrieval-Augmented Generation (RAG) and Generative AI applications with LangChain, FAISS, Pinecone, OpenAI/Groq APIs and AWS Bedrock, powering **10+ production-ready dashboards**.
-  - Performed root cause analysis, data governance checks and end-to-end model deployment across multi-agent AI systems and business dashboards.
+- **Data Analyst – Apprentice, Colt Technology Services** | *Start date – Present*
+  - Working with real business data: SQL querying, analysis, dashboards and reporting.
+  <!-- ✏️ Add your start date and 2-3 quantified bullets, e.g. "Built X dashboard used by Y team, cutting reporting time by Z%". -->
 
-- **Job Simulation: GenAI Powered Data Analytics, Tata iQ (Forage)** | *Aug 2026*
-  Built a business summary report and an executive briefing deck on an AI-powered collections strategy, backed by a logistic regression delinquency prediction model.
+- **Data Science Intern, Take It Smart (OPC) Pvt Ltd** | *Start date – End date*
+  - Hands-on work across the data science workflow: data handling, analysis and modeling.
+  <!-- ✏️ Add 2-3 quantified bullets (projects delivered, tools used, results). -->
 
 ---
 
-## Certifications
+## Education & Certifications
 
-- Microsoft Applied Skills: AI Research Agents (Jul 2026)
-- Oracle Agentic AI Certified Foundations Associate (Jul 2026)
-- Tata iQ GenAI Powered Data Analytics Job Simulation, Forage (Aug 2026)
-- AWS Cloud Practitioner Essentials, AWS Skill Builder (Aug 2026)
-- AI Dashboards using Power BI, Skill Nation
-- Getting Started with AI, IBM SkillsBuild
-- Generative AI Workshop, OpenAI
-- Responsive Web Design, freeCodeCamp
+- **B.E. in Artificial Intelligence & Machine Learning Engineering**, CGPA 9.07 / 10 <!-- ✏️ add college name and graduation month/year -->
+- Microsoft Applied Skills credential
+- Best Performer recognition
+<!-- ✏️ List each certification by exact name and month/year, e.g. "AWS Cloud Practitioner Essentials (Aug 2026)". -->
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d)](https://www.linkedin.com/in/chowdri-furkhan/)
-[![Email](https://img.shields.io/badge/Email-mrfurkhanfurkhan%40gmail.com-0b0f1a?style=for-the-badge&logo=gmail&logoColor=7DF9FF&labelColor=05070d)](mailto:mrfurkhanfurkhan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-0b0f1a?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=05070d)](https://github.com/Chowdri-Furkhan07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d)](https://www.linkedin.com/in/mallareddygari-gayathri)
+[![Email](https://img.shields.io/badge/Email-gayathrireddy18125%40gmail.com-0b0f1a?style=for-the-badge&logo=gmail&logoColor=7DF9FF&labelColor=05070d)](mailto:gayathrireddy18125@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-0b0f1a?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=05070d)](https://github.com/Gayathri-Reddy874)
 
 ```
 > Turning data into decisions, one insight at a time.
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:04070d,50:1a1240,100:050510" />
+</p>
