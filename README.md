@@ -178,7 +178,7 @@ flowchart LR
   - Developed Retrieval-Augmented Generation (RAG) and Generative AI applications using LangChain, FAISS, Pinecone, OpenAI/Groq APIs and AWS Bedrock, powering **10+ production-ready dashboards**.
   - Performed root cause analysis, data governance checks and end-to-end model deployment across multi-agent AI systems and business dashboards.
 
-- **Job Simulation — Tata iQ (Forage), GenAI Powered Data Analytics** | *Aug 2026*  
+- **Job Simulation - Tata iQ (Forage), GenAI Powered Data Analytics** | *Aug 2026*  
 Built a business summary report and an executive briefing deck on an AI-powered collections strategy, backed by a logistic regression delinquency prediction model.
 
 ---
