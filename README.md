@@ -187,7 +187,7 @@ Built a business summary report and an executive briefing deck on an AI-powered 
 
 - Microsoft Applied Skills: AI Research Agents (Jul 2026)
 - Oracle Agentic AI Certified Foundations Associate (Jul 2026)
-- GenAI Powered Data Analytics Job Simulation — Tata iQ, Forage (Aug 2026)
+- GenAI Powered Data Analytics Job Simulation - Tata iQ, Forage (Aug 2026)
 - AWS Cloud Practitioner Essentials — AWS Skill Builder (Aug 2026)
 - AI Dashboards using Power BI — Skill Nation
 - Getting Started with AI — IBM SkillsBuild
