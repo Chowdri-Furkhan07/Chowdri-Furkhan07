@@ -173,7 +173,7 @@ flowchart LR
 
 ## <img src="https://img.icons8.com/fluency/28/time-machine.png" width="28"/> Experience Timeline
 
-- **Data Science Intern — Take It Smart (OPC) Pvt Ltd, Bengaluru, India** | *Feb 2026 – May 2026*
+- **Data Science Intern - Take It Smart (OPC) Pvt Ltd, Bengaluru, India** | *Feb 2026 – May 2026*
   - Deployed **20+ AI/ML and Generative AI projects**, including dashboards, recommendation systems and chatbots, using Python, SQL, Scikit-learn, TensorFlow, Flask, Streamlit, Power BI and OpenCV.
   - Developed Retrieval-Augmented Generation (RAG) and Generative AI applications using LangChain, FAISS, Pinecone, OpenAI/Groq APIs and AWS Bedrock, powering **10+ production-ready dashboards**.
   - Performed root cause analysis, data governance checks and end-to-end model deployment across multi-agent AI systems and business dashboards.
