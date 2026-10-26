@@ -190,7 +190,7 @@ Built a business summary report and an executive briefing deck on an AI-powered 
 - GenAI Powered Data Analytics Job Simulation - Tata iQ, Forage (Aug 2026)
 - AWS Cloud Practitioner Essentials - AWS Skill Builder (Aug 2026)
 - AI Dashboards using Power BI - Skill Nation
-- Getting Started with AI — IBM SkillsBuild
+- Getting Started with AI - IBM SkillsBuild
 - Generative AI Workshop — OpenAI
 - Responsive Web Design — freeCodeCamp
 
